@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#top {
+    background-color: rgb(208, 233, 241);
+    padding:13% 30%;
+}
+#wel {
+    text-align: center;
+    font-size: 55px;
+    font-family: Bodoni MT;
+}
+#tag {
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospaces;
+    color: grey;
+}
+#welcome {
+    color: red;
+}
+#to{
+    color: rgb(122, 122, 20);
+}
+#simon {
+    color:blue;
+}
+#game{
+    color:rgb(13, 124, 13);
+}
+
+button {
+    padding: 8px;
+    background-color: black;
+    font-style: bold;
+    color: white;
+    border-radius: 2px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+#content {
+        padding:1% 15%;
+}
+#foot {
+    padding: 10%;
+    background-color: black;
+    color:white;
+}
